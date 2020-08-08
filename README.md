@@ -1,4 +1,4 @@
-# LogiQA-dataset
+# LogiQA
 This dataset consists of 8,678 QA instances.
 
 The file has 69,424 lines. Each 8 lines constitute an example of a problem.  (8,678 * 8 = 69,424)
