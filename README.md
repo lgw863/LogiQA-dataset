@@ -1,5 +1,5 @@
 # LogiQA
-This dataset consists of 8,678 QA instances.
+This dataset consists of 8,678 QA instances.(Train:7376; Eval:651; Test:651)
 
 The file has 69,424 lines. Each 8 lines constitute an example of a problem.  (8,678 * 8 = 69,424)
 
